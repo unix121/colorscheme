@@ -1,0 +1,22 @@
+!	Dark Space colorscheme by Unix121 	!
+!	https://github.com/unix121		!
+*.foreground:   #c5c8c6
+*.background:   #211e23
+*.cursorColor:  #c5c8c6
+
+*.color0:       #211e23
+*.color8:       #37323c
+*.color1:       #98474c
+*.color9:       #b15359
+*.color2:       #47535c
+*.color10:      #62727f
+*.color3:       #c94c4f
+*.color11:      #e05558
+*.color4:       #556476
+*.color12:      #66788e
+*.color5:       #737e87
+*.color13:      #8996a1
+*.color6:       #a23b42
+*.color14:      #c64851
+*.color7:       #37323c
+*.color15:      #c5c8c6

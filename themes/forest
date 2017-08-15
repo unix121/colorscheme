@@ -1,0 +1,22 @@
+!	Forest colorscheme by Unix121	!
+!	https://github.com/unix121	!
+*.foreground:   #cfd2cf
+*.background:   #2f2f38
+*.cursorColor:  #cfd2cf
+
+*.color0:       #34343e
+*.color8:       #b0c4bb
+*.color1:       #9aafaa
+*.color9:       #9aafaa
+*.color2:       #759496
+*.color10:      #759496
+*.color3:       #93b3b0
+*.color11:      #93b3b0
+*.color4:       #688486
+*.color12:      #688486
+*.color5:       #668ca1
+*.color13:      #668ca1
+*.color6:       #759496
+*.color14:      #759496
+*.color7:       #b0c4bb
+*.color15:      #b0c4bb
